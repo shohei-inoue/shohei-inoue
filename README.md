@@ -1,5 +1,7 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shohei-inoue&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shohei-inoue&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohei-inoue&layout=compact&count_private=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=shohei-inoue&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shohei-inoue&theme=onedark&column=8
+[![trophy](https://github-profile-trophy.vercel.app/?username=shohei-inoue&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
