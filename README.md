@@ -1,5 +1,5 @@
 
-## Hi there 👋 I'm tsunakit99
+## Hi there 👋 I'm Shohei Inoue
 
 [![Visitors](https://komarev.com/ghpvc/?username=tsunakit99&color=blue)](https://github.com/shohei-inoue)
 
