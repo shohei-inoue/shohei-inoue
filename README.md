@@ -16,7 +16,7 @@ I am a full-stack engineer proficient in front-end, back-end, reinforcement lear
 
 #### 🧠 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=go,gin,python,fastapi" />
+  <img src="https://skillicons.dev/icons?i=go,python,fastapi" />
 </p>
 
 #### 🗄️ Database & ORM
