@@ -53,8 +53,5 @@ I am a full-stack engineer proficient in front-end, back-end, reinforcement lear
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shohei-inoue&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shohei-inoue&theme=gruvbox&utcOffset=9)
 
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=shohei-inoue&theme=gruvbox)
-
 
 ---
