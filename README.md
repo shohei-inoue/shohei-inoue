@@ -26,7 +26,7 @@ I am a full-stack engineer proficient in front-end, back-end, reinforcement lear
 
 #### ⚙️ DevOps / Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,gcs,supabase" />
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,gcp,supabase" />
 </p>
 
 #### 🧠 Machine Learning & Reinforcement Learning
