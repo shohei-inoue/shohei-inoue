@@ -11,7 +11,7 @@ I am a full-stack engineer proficient in front-end, back-end, reinforcement lear
 
 #### 👨‍🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,react,materialui" />
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,react,materialui,angular" />
 </p>
 
 #### 🧠 Backend
@@ -26,7 +26,7 @@ I am a full-stack engineer proficient in front-end, back-end, reinforcement lear
 
 #### ⚙️ DevOps / Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,gcp,supabase" />
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,gcp,supabase,aws" />
 </p>
 
 #### 🧠 Machine Learning & Reinforcement Learning
